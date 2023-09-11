@@ -1,9 +1,4 @@
-"""
-GaLaiLapTrinh
-Nhóm discord thảo luận, chia sẻ tài liệu python :  https://discord.gg/w5D4s363Pk
-Full video giải thích + hướng dẫn tại : https://www.youtube.com/c/galailaptrinh
 
-"""
 import cv2
 import time
 import os
